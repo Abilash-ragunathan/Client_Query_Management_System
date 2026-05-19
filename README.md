@@ -1,4 +1,4 @@
-# assignment_1
+# mini project 1
 client_query_management_system |
  user (Client / Support) |
  Streamlit UI |
