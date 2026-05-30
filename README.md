@@ -1,5 +1,4 @@
- mini project 1
- client_query_management_system |
+Client_Query_Management_System |
  user (Client / Support) |
  Streamlit UI |
  Python Backend Logic |
